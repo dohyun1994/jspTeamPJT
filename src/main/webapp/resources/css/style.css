@@ -1,0 +1,32 @@
+.container {
+    width: 1500px;
+    height: 600px;
+    border:4px solid #323332;
+    
+
+    /* Flex - 정렬을 위한 컨테이너 */
+    display: flex;
+
+    /* 주축 방향 정렬 */
+    justify-content: center;
+}
+
+.item {
+    margin: 10px;
+    width: 250px;
+    height: 150px;
+    border: 2px solid;
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 1px;
+    overflow: hidden;
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
