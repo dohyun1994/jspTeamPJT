@@ -14,6 +14,7 @@
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <title>상품 목록</title>
+<!-- 파일 변경 내용 테스트중입니다. -->
 <style>
 #box1 {
 	width: 100%;
